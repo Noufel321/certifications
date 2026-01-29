@@ -16,5 +16,4 @@ Les certificats sont classés par domaine pour une lecture claire et rapide.
 **Spécialité :** Data / Informatique  
 
 📫 Contact :  
-- LinkedIn : (lien)
-- GitHub : (ton profil)
+- LinkedIn : [(lien)](https://www.linkedin.com/in/abderrahim-noufel-30133024b/)
